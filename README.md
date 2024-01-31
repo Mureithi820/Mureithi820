@@ -5,11 +5,13 @@
 
 - 🌱 I’m currently learning **Node js and mongodb**
 
-- 👯 I’m looking to collaborate on ** any projects**
+- 👯 I’m looking to collaborate on ** Software projects**
+
+- 👨‍💻 All of my projects are available at [https://victormureithi.netlify.app/](https://victormureithi.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/victor mureithi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor mureithi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/victor-mureithi-97b469294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor mureithi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,7 +23,7 @@
   <img  align="left" src = "https://github-readme-streak-stats.herokuapp.com/?user=mureithi820&theme=gotham">
 </a>
 
-[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=mureithi820&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=mureithi820&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ---
 
