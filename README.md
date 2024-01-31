@@ -3,13 +3,10 @@
 
 - 🔭 I’m currently working on **Natours**
 
-- 🌱 I’m currently learning **Node,mongodb**
+- 🌱 I’m currently learning **Node js and mongodb**
 
-- 👯 I’m looking to collaborate on **projects**
+- 👯 I’m looking to collaborate on ** any projects**
 
-- 👨‍💻 All of my projects are available at [https://victormureithi.netlify.app/](https://victormureithi.netlify.app/)
-
-- 📫 How to reach me **victormureithig@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
