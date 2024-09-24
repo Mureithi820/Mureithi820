@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Victor Mureithi</h1>
 <h3 align="center">A passionate fullstack developer from Kenya</h3>
 
-- 🔭 I’m currently working on **Natours**
 
-- 🌱 I’m currently learning **Node js and mongodb**
+- 🌱 I’m currently learning **Angular js**
 
 - 👯 I’m looking to collaborate on ** Software projects**
 
