@@ -42,10 +42,13 @@
 
 ### GitHub Stats
 <p>
-<a href="https://github.com/mureithi820">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mureithi820&theme=gotham" alt="Victor's GitHub Streak"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=mureithi820&show_icons=true&theme=gotham" alt="Victor's GitHub Stats"/>
 </p>
+
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mureithi820&theme=gotham" alt="Victor's GitHub Streak"/>
+</p>
+
 
 ---
 
