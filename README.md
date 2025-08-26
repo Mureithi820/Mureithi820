@@ -40,14 +40,11 @@
 
 ---
 
-### GitHub Stats
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=mureithi820&show_icons=true&theme=gotham" alt="Victor's GitHub Stats"/>
-</p>
 
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mureithi820&theme=gotham" alt="Victor's GitHub Streak"/>
-</p>
+## My Github Stats
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=mureithi820&count_private=true&show_icons=true&theme=cobalt">
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mureithi820&theme=gotham" alt="Victor's GitHub Streak"/>
+</a>
 
 
 ---
